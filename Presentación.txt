@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Mi nombre es Carlos Diego Toruño
+=======
 mi nombre es xyz
+>>>>>>> 9cd51f08141c52b8583e03784b97520b924380cc
